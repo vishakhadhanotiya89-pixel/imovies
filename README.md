@@ -1,6 +1,13 @@
 # IMovies – Movie Ticket Booking Made Simple
 
-A full-stack, responsive movie ticket booking web application inspired by premier cinema chains. Browse blockbuster movies, explore auditoriums across metropolitan cities, pick interactive cinema seats, checkout via simulated payment, and receive verified digital boarding passes with QR codes.
+A full-stack, responsive movie ticket booking web application inspired by premier cinema chains. Browse blockbuster movies, explore auditoriums across metropolitan cities, pick interactive cinema seats, checkout via simulated payment, and receive verified digital boarding passes with QR codes. 
+
+## 🎥 Project Demo
+
+Watch the screen recording of the project:
+
+[▶ Watch Project Demo on Google Drive](https://drive.google.com/file/d/1zgquil2sUCzBQLZmxiZCbUSpxCdGpQs4/view?usp=sharing)
+
 
 ---
 
