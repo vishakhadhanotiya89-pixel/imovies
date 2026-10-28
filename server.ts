@@ -36,7 +36,7 @@ async function startServer() {
     app.use(vite.middlewares);
   } else {
     // Production mode: static assets
-    const distPath = path.resolve(__dirname, 'dist');
+    const distPath = path.resolve(process.cwd(), 'dist');
     app.use(express.static(distPath));
     app.get('*', (req, res) => {
       res.sendFile(path.resolve(distPath, 'index.html'));
