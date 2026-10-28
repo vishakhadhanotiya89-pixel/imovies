@@ -1,0 +1,8 @@
+{
+  "name": "IMovies – Movie Ticket Booking Made Simple",
+  "description": "Browse movies, pick theatres and showtimes, choose cinema seats, and book tickets seamlessly with interactive seat layouts, live price calculation, user accounts, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
